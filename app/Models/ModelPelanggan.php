@@ -27,5 +27,12 @@ class ModelPelanggan extends Model
     {
         $query = $this->db->table('Pelanggan')->update($data, array('idpel' => $id));
     }
+
+    public function filterPelanggan($idpel_awal, $idpel_akhir)
+    {
+        $builder = $this->db->table('pelanggan');
+        $builder->where('idpel >=', $idpel_awal);
+        $builder->where('idpel <=', $idpel_akhir);
+        return $builder->get();
+    }
 }
-?>

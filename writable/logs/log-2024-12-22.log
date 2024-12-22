@@ -1302,3 +1302,1273 @@ INFO - 2024-12-22 16:59:56 --> Session: Class initialized using 'CodeIgniter\Ses
 INFO - 2024-12-22 16:59:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 INFO - 2024-12-22 16:59:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 INFO - 2024-12-22 17:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:16:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:16:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:16:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:16:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:16:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:17:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:17:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:17:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:17:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:17:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:18:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:19:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:19:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:19:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:20:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:20:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:21:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:22:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:22:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:22:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:22:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:22:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:25:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:26:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:26:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:27:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:27:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:27:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:28:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:29:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:30:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:30:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:31:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:32:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:32:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:33:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:33:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:33:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:33:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:33:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:34:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:34:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:38:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:38:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:43:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:43:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-12-22 17:43:26 --> mysqli_sql_exception: Unknown column 'pengembalian.idmobil' in 'on clause' in D:\Rafi Chandra\Codeigniter4\MBL\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `pengemb...', 0)
+#1 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pengemb...')
+#2 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pengemb...')
+#3 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pengemb...', Array, false)
+#4 D:\Rafi Chandra\Codeigniter4\MBL\app\Models\ModelPengembalian.php(19): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Rafi Chandra\Codeigniter4\MBL\app\Controllers\Pengembalian.php(17): App\Models\ModelPengembalian->getPengembalian()
+#6 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+#7 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+#8 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Rafi Chandra\Codeigniter4\MBL\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\Rafi Chandra\Codeigniter4\MBL\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\Rafi Chandra\Codeigniter4\MBL\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\Rafi Chandra\Codeigniter4\MBL\system\rewrite.php(44): require_once('D:\\Rafi Chandra...')
+#13 {main}
+CRITICAL - 2024-12-22 17:43:26 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'pengembalian.idmobil' in 'on clause'
+[Method: GET, Route: pengembalian]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjam`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `pengembalian`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `pengembalian`.`idmobil` = `datamobil`.`idmobil`', [], false)
+ 2 APPPATH\Models\ModelPengembalian.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Pengembalian.php(17): App\Models\ModelPengembalian->getPengembalian()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 17:43:26 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'pengembalian.idmobil' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjam`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `pengembalian`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `pengembalian`.`idmobil` = `datamobil`.`idmobil`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjam`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `pengembalian`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `pengembalian`.`idmobil` = `datamobil`.`idmobil`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjam`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `pengembalian`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `pengembalian`.`idmobil` = `datamobil`.`idmobil`', [], false)
+ 4 APPPATH\Models\ModelPengembalian.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Pengembalian.php(17): App\Models\ModelPengembalian->getPengembalian()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 17:43:26 --> [Caused by] mysqli_sql_exception: Unknown column 'pengembalian.idmobil' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjam`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `pengembalian`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `pengembalian`.`idmobil` = `datamobil`.`idmobil`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjam`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `pengembalian`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `pengembalian`.`idmobil` = `datamobil`.`idmobil`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjam`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `pengembalian`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `pengembalian`.`idmobil` = `datamobil`.`idmobil`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjam`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `pengembalian`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `pengembalian`.`idmobil` = `datamobil`.`idmobil`', [], false)
+ 5 APPPATH\Models\ModelPengembalian.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Pengembalian.php(17): App\Models\ModelPengembalian->getPengembalian()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 17:44:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-12-22 17:44:06 --> mysqli_sql_exception: Unknown column 'pengembalian.idmobil' in 'on clause' in D:\Rafi Chandra\Codeigniter4\MBL\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `pengemb...', 0)
+#1 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pengemb...')
+#2 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pengemb...')
+#3 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pengemb...', Array, false)
+#4 D:\Rafi Chandra\Codeigniter4\MBL\app\Models\ModelPengembalian.php(19): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Rafi Chandra\Codeigniter4\MBL\app\Controllers\Pengembalian.php(17): App\Models\ModelPengembalian->getPengembalian()
+#6 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+#7 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+#8 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Rafi Chandra\Codeigniter4\MBL\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\Rafi Chandra\Codeigniter4\MBL\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\Rafi Chandra\Codeigniter4\MBL\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\Rafi Chandra\Codeigniter4\MBL\system\rewrite.php(44): require_once('D:\\Rafi Chandra...')
+#13 {main}
+CRITICAL - 2024-12-22 17:44:06 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'pengembalian.idmobil' in 'on clause'
+[Method: GET, Route: pengembalian]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjam`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `pengembalian`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `pengembalian`.`idmobil` = `datamobil`.`idmobil`', [], false)
+ 2 APPPATH\Models\ModelPengembalian.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Pengembalian.php(17): App\Models\ModelPengembalian->getPengembalian()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 17:44:06 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'pengembalian.idmobil' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjam`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `pengembalian`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `pengembalian`.`idmobil` = `datamobil`.`idmobil`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjam`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `pengembalian`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `pengembalian`.`idmobil` = `datamobil`.`idmobil`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjam`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `pengembalian`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `pengembalian`.`idmobil` = `datamobil`.`idmobil`', [], false)
+ 4 APPPATH\Models\ModelPengembalian.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Pengembalian.php(17): App\Models\ModelPengembalian->getPengembalian()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 17:44:06 --> [Caused by] mysqli_sql_exception: Unknown column 'pengembalian.idmobil' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjam`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `pengembalian`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `pengembalian`.`idmobil` = `datamobil`.`idmobil`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjam`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `pengembalian`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `pengembalian`.`idmobil` = `datamobil`.`idmobil`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjam`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `pengembalian`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `pengembalian`.`idmobil` = `datamobil`.`idmobil`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjam`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `pengembalian`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `pengembalian`.`idmobil` = `datamobil`.`idmobil`', [], false)
+ 5 APPPATH\Models\ModelPengembalian.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Pengembalian.php(17): App\Models\ModelPengembalian->getPengembalian()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 17:44:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:47:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:47:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:51:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 17:51:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:14:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:14:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:14:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:16:20 --> CodeIgniter\Database\Exceptions\DatabaseException: You must set the database table to be used with your query.
+[Method: GET, Route: Peminjam/tambah]
+in SYSTEMPATH\Database\BaseConnection.php on line 927.
+ 1 SYSTEMPATH\Model.php(716): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(922): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Peminjam.php(30): CodeIgniter\Model->__call('select', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Peminjam->tambah()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+ERROR - 2024-12-22 18:17:44 --> mysqli_sql_exception: Unknown column 'created_at' in 'where clause' in D:\Rafi Chandra\Codeigniter4\MBL\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT MAX(RIGH...', 0)
+#1 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MAX(RIGH...')
+#2 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MAX(RIGH...')
+#3 D:\Rafi Chandra\Codeigniter4\MBL\app\Models\ModelPeminjam.php(50): CodeIgniter\Database\BaseConnection->query('SELECT MAX(RIGH...')
+#4 D:\Rafi Chandra\Codeigniter4\MBL\app\Controllers\Peminjam.php(28): App\Models\ModelPeminjam->getFaktur()
+#5 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(933): App\Controllers\Peminjam->tambah()
+#6 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#7 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Rafi Chandra\Codeigniter4\MBL\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\Rafi Chandra\Codeigniter4\MBL\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\Rafi Chandra\Codeigniter4\MBL\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\Rafi Chandra\Codeigniter4\MBL\system\rewrite.php(44): require_once('D:\\Rafi Chandra...')
+#12 {main}
+CRITICAL - 2024-12-22 18:17:44 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'created_at' in 'where clause'
+[Method: GET, Route: Peminjam/tambah]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\ModelPeminjam.php(50): CodeIgniter\Database\BaseConnection->query('SELECT MAX(RIGHT(faktur,4)) as nofaktur 
+                                  FROM peminjaman 
+                                  WHERE DATE(created_at) = CURDATE()')
+ 2 APPPATH\Controllers\Peminjam.php(28): App\Models\ModelPeminjam->getFaktur()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Peminjam->tambah()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 18:17:44 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'created_at' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MAX(RIGHT(faktur,4)) as nofaktur 
+                                  FROM peminjaman 
+                                  WHERE DATE(created_at) = CURDATE()')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MAX(RIGHT(faktur,4)) as nofaktur 
+                                  FROM peminjaman 
+                                  WHERE DATE(created_at) = CURDATE()')
+ 3 APPPATH\Models\ModelPeminjam.php(50): CodeIgniter\Database\BaseConnection->query('SELECT MAX(RIGHT(faktur,4)) as nofaktur 
+                                  FROM peminjaman 
+                                  WHERE DATE(created_at) = CURDATE()')
+ 4 APPPATH\Controllers\Peminjam.php(28): App\Models\ModelPeminjam->getFaktur()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Peminjam->tambah()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 18:17:44 --> [Caused by] mysqli_sql_exception: Unknown column 'created_at' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT MAX(RIGHT(faktur,4)) as nofaktur 
+                                  FROM peminjaman 
+                                  WHERE DATE(created_at) = CURDATE()', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT MAX(RIGHT(faktur,4)) as nofaktur 
+                                  FROM peminjaman 
+                                  WHERE DATE(created_at) = CURDATE()')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT MAX(RIGHT(faktur,4)) as nofaktur 
+                                  FROM peminjaman 
+                                  WHERE DATE(created_at) = CURDATE()')
+ 4 APPPATH\Models\ModelPeminjam.php(50): CodeIgniter\Database\BaseConnection->query('SELECT MAX(RIGHT(faktur,4)) as nofaktur 
+                                  FROM peminjaman 
+                                  WHERE DATE(created_at) = CURDATE()')
+ 5 APPPATH\Controllers\Peminjam.php(28): App\Models\ModelPeminjam->getFaktur()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Peminjam->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:18:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:19:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:19:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:19:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:20:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:21:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:21:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:22:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:22:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:22:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:22:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:23:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:23:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-12-22 18:23:56 --> mysqli_sql_exception: Unknown column 'pengembalian.idpeminjam' in 'on clause' in D:\Rafi Chandra\Codeigniter4\MBL\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `pengemb...', 0)
+#1 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pengemb...')
+#2 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pengemb...')
+#3 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pengemb...', Array, false)
+#4 D:\Rafi Chandra\Codeigniter4\MBL\app\Models\ModelPengembalian.php(19): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Rafi Chandra\Codeigniter4\MBL\app\Controllers\Pengembalian.php(17): App\Models\ModelPengembalian->getPengembalian()
+#6 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+#7 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+#8 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Rafi Chandra\Codeigniter4\MBL\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\Rafi Chandra\Codeigniter4\MBL\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\Rafi Chandra\Codeigniter4\MBL\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\Rafi Chandra\Codeigniter4\MBL\system\rewrite.php(44): require_once('D:\\Rafi Chandra...')
+#13 {main}
+CRITICAL - 2024-12-22 18:23:56 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'pengembalian.idpeminjam' in 'on clause'
+[Method: GET, Route: pengembalian]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjaman`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `peminjaman`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `peminjaman`.`idmobil` = `datamobil`.`idmobil`', [], false)
+ 2 APPPATH\Models\ModelPengembalian.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Pengembalian.php(17): App\Models\ModelPengembalian->getPengembalian()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 18:23:56 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'pengembalian.idpeminjam' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjaman`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `peminjaman`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `peminjaman`.`idmobil` = `datamobil`.`idmobil`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjaman`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `peminjaman`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `peminjaman`.`idmobil` = `datamobil`.`idmobil`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjaman`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `peminjaman`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `peminjaman`.`idmobil` = `datamobil`.`idmobil`', [], false)
+ 4 APPPATH\Models\ModelPengembalian.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Pengembalian.php(17): App\Models\ModelPengembalian->getPengembalian()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 18:23:56 --> [Caused by] mysqli_sql_exception: Unknown column 'pengembalian.idpeminjam' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjaman`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `peminjaman`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `peminjaman`.`idmobil` = `datamobil`.`idmobil`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjaman`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `peminjaman`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `peminjaman`.`idmobil` = `datamobil`.`idmobil`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjaman`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `peminjaman`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `peminjaman`.`idmobil` = `datamobil`.`idmobil`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pengembalian`.*, `pelanggan`.`idpel`, `pelanggan`.`nama`, `pelanggan`.`nohp`, `datamobil`.`noplat`, `datamobil`.`hrgsewa`
+FROM `pengembalian`
+LEFT JOIN `peminjaman` ON `pengembalian`.`idpeminjam` = `peminjaman`.`idpeminjam`
+LEFT JOIN `pelanggan` ON `peminjaman`.`idpel` = `pelanggan`.`idpel`
+LEFT JOIN `datamobil` ON `peminjaman`.`idmobil` = `datamobil`.`idmobil`', [], false)
+ 5 APPPATH\Models\ModelPengembalian.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Pengembalian.php(17): App\Models\ModelPengembalian->getPengembalian()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:24:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:25:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:25:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:27:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:27:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:29:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:29:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:31:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:31:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:32:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:35:12 --> CodeIgniter\Database\Exceptions\DatabaseException: You must set the database table to be used with your query.
+[Method: POST, Route: pengembalian/save]
+in SYSTEMPATH\Database\BaseConnection.php on line 927.
+ 1 SYSTEMPATH\Model.php(716): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(922): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Pengembalian.php(74): CodeIgniter\Model->__call('getPeminjamanByFaktur', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->save()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 18:35:34 --> CodeIgniter\Database\Exceptions\DatabaseException: You must set the database table to be used with your query.
+[Method: POST, Route: pengembalian/save]
+in SYSTEMPATH\Database\BaseConnection.php on line 927.
+ 1 SYSTEMPATH\Model.php(716): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(922): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Pengembalian.php(74): CodeIgniter\Model->__call('getPeminjamanByFaktur', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->save()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:36:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:36:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:36:44 --> ErrorException: Undefined array key "idmobil"
+[Method: GET, Route: pengembalian]
+in APPPATH\Views\pengembalian\v_pengembalian.php on line 54.
+ 1 APPPATH\Views\pengembalian\v_pengembalian.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idmobil"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\v_pengembalian.php', 54)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\v_pengembalian.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/v_pengembalian', [], true)
+ 5 APPPATH\Controllers\Pengembalian.php(19): view('pengembalian/v_pengembalian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:37:46 --> ErrorException: Undefined array key "idmobil"
+[Method: GET, Route: pengembalian]
+in APPPATH\Views\pengembalian\v_pengembalian.php on line 54.
+ 1 APPPATH\Views\pengembalian\v_pengembalian.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idmobil"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\v_pengembalian.php', 54)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\v_pengembalian.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/v_pengembalian', [], true)
+ 5 APPPATH\Controllers\Pengembalian.php(19): view('pengembalian/v_pengembalian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:38:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:38:30 --> ErrorException: Undefined array key "idpeminjam"
+[Method: GET, Route: pengembalian]
+in APPPATH\Views\pengembalian\v_pengembalian.php on line 59.
+ 1 APPPATH\Views\pengembalian\v_pengembalian.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idpeminjam"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\v_pengembalian.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\v_pengembalian.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/v_pengembalian', [], true)
+ 5 APPPATH\Controllers\Pengembalian.php(19): view('pengembalian/v_pengembalian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:38:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:38:53 --> ErrorException: Undefined array key "iddikembalian"
+[Method: GET, Route: pengembalian]
+in APPPATH\Views\pengembalian\v_pengembalian.php on line 59.
+ 1 APPPATH\Views\pengembalian\v_pengembalian.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "iddikembalian"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\v_pengembalian.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\v_pengembalian.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/v_pengembalian', [], true)
+ 5 APPPATH\Controllers\Pengembalian.php(19): view('pengembalian/v_pengembalian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:39:03 --> ErrorException: Undefined array key "idpengembalian"
+[Method: GET, Route: pengembalian]
+in APPPATH\Views\pengembalian\v_pengembalian.php on line 59.
+ 1 APPPATH\Views\pengembalian\v_pengembalian.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idpengembalian"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\v_pengembalian.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\v_pengembalian.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/v_pengembalian', [], true)
+ 5 APPPATH\Controllers\Pengembalian.php(19): view('pengembalian/v_pengembalian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:39:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:39:15 --> ErrorException: Undefined array key "idmobil"
+[Method: GET, Route: pengembalian]
+in APPPATH\Views\pengembalian\v_pengembalian.php on line 60.
+ 1 APPPATH\Views\pengembalian\v_pengembalian.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idmobil"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\v_pengembalian.php', 60)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\v_pengembalian.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/v_pengembalian', [], true)
+ 5 APPPATH\Controllers\Pengembalian.php(19): view('pengembalian/v_pengembalian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:39:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:39:16 --> ErrorException: Undefined array key "idmobil"
+[Method: GET, Route: pengembalian]
+in APPPATH\Views\pengembalian\v_pengembalian.php on line 60.
+ 1 APPPATH\Views\pengembalian\v_pengembalian.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idmobil"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\v_pengembalian.php', 60)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\v_pengembalian.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/v_pengembalian', [], true)
+ 5 APPPATH\Controllers\Pengembalian.php(19): view('pengembalian/v_pengembalian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:39:28 --> ErrorException: Undefined variable $data_peminjaman
+[Method: GET, Route: pengembalian]
+in APPPATH\Views\pengembalian\modalpengembalian.php on line 23.
+ 1 APPPATH\Views\pengembalian\modalpengembalian.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_peminjaman', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\modalpengembalian.php', 23)
+ 2 APPPATH\Views\layout\main.php(79): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\modalpengembalian.php')
+ 3 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\layout\\main.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/main', [], true)
+ 6 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/v_pengembalian', [], true)
+ 7 APPPATH\Controllers\Pengembalian.php(19): view('pengembalian/v_pengembalian', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:40:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:41:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:41:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:41:41 --> ErrorException: Undefined variable $data_peminjaman
+[Method: GET, Route: Pengembalian/edit/3]
+in APPPATH\Views\pengembalian\modalpengembalian.php on line 23.
+ 1 APPPATH\Views\pengembalian\modalpengembalian.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_peminjaman', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\modalpengembalian.php', 23)
+ 2 APPPATH\Views\layout\main.php(79): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\modalpengembalian.php')
+ 3 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\layout\\main.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/main', [], true)
+ 6 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('peminjam/formedit', [], true)
+ 7 APPPATH\Controllers\Pengembalian.php(103): view('peminjam/formedit', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->edit('3')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 18:42:11 --> CodeIgniter\Database\Exceptions\DatabaseException: You must set the database table to be used with your query.
+[Method: GET, Route: Pengembalian/edit/3]
+in SYSTEMPATH\Database\BaseConnection.php on line 927.
+ 1 SYSTEMPATH\Model.php(716): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(922): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Pengembalian.php(100): CodeIgniter\Model->__call('getPeminjaman', [])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->edit('3')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 18:42:22 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pengembalian/formedit.php"
+[Method: GET, Route: Pengembalian/edit/3]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pengembalian/formedit.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/formedit', [], true)
+ 3 APPPATH\Controllers\Pengembalian.php(102): view('pengembalian/formedit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->edit('3')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:42:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:42:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:42:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pengembalian/formedit.php"
+[Method: GET, Route: Pengembalian/edit/3]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pengembalian/formedit.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/formedit', [], true)
+ 3 APPPATH\Controllers\Pengembalian.php(102): view('pengembalian/formedit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->edit('3')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 18:42:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pengembalian/formedit.php"
+[Method: GET, Route: Pengembalian/edit/3]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pengembalian/formedit.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/formedit', [], true)
+ 3 APPPATH\Controllers\Pengembalian.php(100): view('pengembalian/formedit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->edit('3')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:43:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:44:58 --> ErrorException: Undefined array key "idkembali"
+[Method: GET, Route: Pengembalian/edit/3]
+in APPPATH\Views\pengembalian\formedit.php on line 24.
+ 1 APPPATH\Views\pengembalian\formedit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idkembali"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php', 24)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/formedit', [], true)
+ 5 APPPATH\Controllers\Pengembalian.php(101): view('pengembalian/formedit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->edit('3')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:45:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:45:51 --> ErrorException: Undefined array key "faktur"
+[Method: GET, Route: Pengembalian/edit/3]
+in APPPATH\Views\pengembalian\formedit.php on line 28.
+ 1 APPPATH\Views\pengembalian\formedit.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "faktur"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php', 28)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/formedit', [], true)
+ 5 APPPATH\Controllers\Pengembalian.php(101): view('pengembalian/formedit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->edit('3')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:46:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:46:41 --> ErrorException: Undefined array key "idkembali"
+[Method: GET, Route: Pengembalian/edit/3]
+in APPPATH\Views\pengembalian\formedit.php on line 24.
+ 1 APPPATH\Views\pengembalian\formedit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idkembali"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php', 24)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/formedit', [], true)
+ 5 APPPATH\Controllers\Pengembalian.php(101): view('pengembalian/formedit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->edit('3')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:47:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:47:44 --> ErrorException: Undefined array key "idkembali"
+[Method: GET, Route: Pengembalian/edit/3]
+in APPPATH\Views\pengembalian\formedit.php on line 24.
+ 1 APPPATH\Views\pengembalian\formedit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idkembali"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php', 24)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/formedit', [], true)
+ 5 APPPATH\Controllers\Pengembalian.php(101): view('pengembalian/formedit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->edit('3')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:48:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:49:16 --> ErrorException: Undefined array key "idkembali"
+[Method: GET, Route: Pengembalian/edit/3]
+in APPPATH\Views\pengembalian\formedit.php on line 24.
+ 1 APPPATH\Views\pengembalian\formedit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idkembali"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php', 24)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/formedit', [], true)
+ 5 APPPATH\Controllers\Pengembalian.php(101): view('pengembalian/formedit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->edit('3')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:49:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:49:33 --> ErrorException: Undefined array key "idkembali"
+[Method: GET, Route: Pengembalian/edit/3]
+in APPPATH\Views\pengembalian\formedit.php on line 24.
+ 1 APPPATH\Views\pengembalian\formedit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idkembali"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php', 24)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/formedit', [], true)
+ 5 APPPATH\Controllers\Pengembalian.php(101): view('pengembalian/formedit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->edit('3')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:50:03 --> ErrorException: Undefined array key "tanggal"
+[Method: GET, Route: Pengembalian/edit/3]
+in APPPATH\Views\pengembalian\formedit.php on line 43.
+ 1 APPPATH\Views\pengembalian\formedit.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tanggal"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/formedit', [], true)
+ 5 APPPATH\Controllers\Pengembalian.php(102): view('pengembalian/formedit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->edit('3')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:50:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:50:29 --> ErrorException: Undefined array key "lama"
+[Method: GET, Route: Pengembalian/edit/3]
+in APPPATH\Views\pengembalian\formedit.php on line 46.
+ 1 APPPATH\Views\pengembalian\formedit.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "lama"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php', 46)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/formedit', [], true)
+ 5 APPPATH\Controllers\Pengembalian.php(102): view('pengembalian/formedit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->edit('3')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:50:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:50:36 --> ErrorException: Undefined array key "total"
+[Method: GET, Route: Pengembalian/edit/3]
+in APPPATH\Views\pengembalian\formedit.php on line 47.
+ 1 APPPATH\Views\pengembalian\formedit.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php', 47)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/formedit', [], true)
+ 5 APPPATH\Controllers\Pengembalian.php(102): view('pengembalian/formedit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->edit('3')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:50:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:50:41 --> ErrorException: Undefined array key "tanggalkembali"
+[Method: GET, Route: Pengembalian/edit/3]
+in APPPATH\Views\pengembalian\formedit.php on line 48.
+ 1 APPPATH\Views\pengembalian\formedit.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tanggalkembali"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php', 48)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\pengembalian\\formedit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengembalian/formedit', [], true)
+ 5 APPPATH\Controllers\Pengembalian.php(102): view('pengembalian/formedit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->edit('3')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:50:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:51:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-12-22 18:52:04 --> mysqli_sql_exception: Unknown column 'idpengembalian' in 'where clause' in D:\Rafi Chandra\Codeigniter4\MBL\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `pengemb...', 0)
+#1 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `pengemb...')
+#2 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `pengemb...')
+#3 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `pengemb...', Array, false)
+#4 D:\Rafi Chandra\Codeigniter4\MBL\app\Models\ModelPengembalian.php(45): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 D:\Rafi Chandra\Codeigniter4\MBL\app\Controllers\Pengembalian.php(117): App\Models\ModelPengembalian->updatePeminjam(Array, '3')
+#6 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(933): App\Controllers\Pengembalian->update()
+#7 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+#8 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Rafi Chandra\Codeigniter4\MBL\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\Rafi Chandra\Codeigniter4\MBL\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\Rafi Chandra\Codeigniter4\MBL\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\Rafi Chandra\Codeigniter4\MBL\system\rewrite.php(44): require_once('D:\\Rafi Chandra...')
+#13 {main}
+CRITICAL - 2024-12-22 18:52:04 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'idpengembalian' in 'where clause'
+[Method: POST, Route: Pengembalian/update]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `pengembalian` SET `tgldikembalikan` = :tgldikembalikan:, `denda` = :denda:
+WHERE `idpengembalian` = :idpengembalian:', [...], false)
+ 2 APPPATH\Models\ModelPengembalian.php(45): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 3 APPPATH\Controllers\Pengembalian.php(117): App\Models\ModelPengembalian->updatePeminjam([...], '3')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->update()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 18:52:04 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'idpengembalian' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `pengembalian` SET `tgldikembalikan` = \'2024-12-27\', `denda` = \'100000\'
+WHERE `idpengembalian` = \'3\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `pengembalian` SET `tgldikembalikan` = \'2024-12-27\', `denda` = \'100000\'
+WHERE `idpengembalian` = \'3\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `pengembalian` SET `tgldikembalikan` = :tgldikembalikan:, `denda` = :denda:
+WHERE `idpengembalian` = :idpengembalian:', [...], false)
+ 4 APPPATH\Models\ModelPengembalian.php(45): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 5 APPPATH\Controllers\Pengembalian.php(117): App\Models\ModelPengembalian->updatePeminjam([...], '3')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->update()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 18:52:04 --> [Caused by] mysqli_sql_exception: Unknown column 'idpengembalian' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `pengembalian` SET `tgldikembalikan` = \'2024-12-27\', `denda` = \'100000\'
+WHERE `idpengembalian` = \'3\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `pengembalian` SET `tgldikembalikan` = \'2024-12-27\', `denda` = \'100000\'
+WHERE `idpengembalian` = \'3\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `pengembalian` SET `tgldikembalikan` = \'2024-12-27\', `denda` = \'100000\'
+WHERE `idpengembalian` = \'3\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `pengembalian` SET `tgldikembalikan` = :tgldikembalikan:, `denda` = :denda:
+WHERE `idpengembalian` = :idpengembalian:', [...], false)
+ 5 APPPATH\Models\ModelPengembalian.php(45): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 6 APPPATH\Controllers\Pengembalian.php(117): App\Models\ModelPengembalian->updatePeminjam([...], '3')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->update()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 18:52:45 --> CodeIgniter\Database\Exceptions\DatabaseException: You must set the database table to be used with your query.
+[Method: POST, Route: Pengembalian/update]
+in SYSTEMPATH\Database\BaseConnection.php on line 927.
+ 1 SYSTEMPATH\Model.php(716): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(922): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Pengembalian.php(117): CodeIgniter\Model->__call('updatePeminjam', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->update()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:53:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:53:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:53:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:55:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:55:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:55:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:56:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:56:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:56:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:56:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:56:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:57:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 18:57:39 --> CodeIgniter\Database\Exceptions\DatabaseException: You must set the database table to be used with your query.
+[Method: POST, Route: pengembalian/delete]
+in SYSTEMPATH\Database\BaseConnection.php on line 927.
+ 1 SYSTEMPATH\Model.php(716): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(922): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Pengembalian.php(88): CodeIgniter\Model->__call('deletPeminjam', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengembalian->delete()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengembalian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 18:58:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:58:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:58:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:58:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:58:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:58:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:59:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 18:59:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:01:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:01:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:01:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:03:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:06:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:07:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:08:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:08:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:08:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:10:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 19:11:03 --> CodeIgniter\Database\Exceptions\DatabaseException: You must set the database table to be used with your query.
+[Method: POST, Route: Pelanggan/filter]
+in SYSTEMPATH\Database\BaseConnection.php on line 927.
+ 1 SYSTEMPATH\Model.php(716): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(922): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Pelanggan.php(94): CodeIgniter\Model->__call('where', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pelanggan->filter()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 19:12:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:12:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:12:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:12:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:12:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:13:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:13:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:14:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:15:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:18:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:19:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 19:25:22 --> ErrorException: Undefined variable $mobil
+[Method: GET, Route: datamobil/laporan]
+in APPPATH\Views\datamobil\v_laporan.php on line 18.
+ 1 APPPATH\Views\datamobil\v_laporan.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mobil', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\datamobil\\v_laporan.php', 18)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\datamobil\\v_laporan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('datamobil/v_laporan', [], true)
+ 5 APPPATH\Controllers\DataMobil.php(81): view('datamobil/v_laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataMobil->laporan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataMobil))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 19:25:59 --> ErrorException: Undefined array key "namamobil"
+[Method: GET, Route: datamobil/laporan]
+in APPPATH\Views\datamobil\v_laporan.php on line 19.
+ 1 APPPATH\Views\datamobil\v_laporan.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "namamobil"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\datamobil\\v_laporan.php', 19)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\datamobil\\v_laporan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('datamobil/v_laporan', [], true)
+ 5 APPPATH\Controllers\DataMobil.php(81): view('datamobil/v_laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataMobil->laporan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataMobil))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 19:27:44 --> ErrorException: Undefined array key "hargasewa"
+[Method: GET, Route: datamobil/laporan]
+in APPPATH\Views\datamobil\v_laporan.php on line 68.
+ 1 APPPATH\Views\datamobil\v_laporan.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "hargasewa"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\datamobil\\v_laporan.php', 68)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\datamobil\\v_laporan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('datamobil/v_laporan', [], true)
+ 5 APPPATH\Controllers\DataMobil.php(81): view('datamobil/v_laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataMobil->laporan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataMobil))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 19:28:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:28:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-12-22 19:28:57 --> mysqli_sql_exception: Table 'dbrental_mobil.mobil' doesn't exist in D:\Rafi Chandra\Codeigniter4\MBL\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Rafi Chandra\Codeigniter4\MBL\app\Controllers\DataMobil.php(96): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(933): App\Controllers\DataMobil->filter()
+#6 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataMobil))
+#7 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Rafi Chandra\Codeigniter4\MBL\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\Rafi Chandra\Codeigniter4\MBL\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\Rafi Chandra\Codeigniter4\MBL\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\Rafi Chandra\Codeigniter4\MBL\system\rewrite.php(44): require_once('D:\\Rafi Chandra...')
+#12 {main}
+CRITICAL - 2024-12-22 19:28:57 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'dbrental_mobil.mobil' doesn't exist
+[Method: POST, Route: DataMobil/filter]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `mobil`
+WHERE `idmobil` >= :idmobil:
+AND `idmobil` <= :idmobil.1:
+ORDER BY `idmobil` ASC', [...], false)
+ 2 APPPATH\Controllers\DataMobil.php(96): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataMobil->filter()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataMobil))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 19:28:57 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'dbrental_mobil.mobil' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `mobil`
+WHERE `idmobil` >= \'M-0001\'
+AND `idmobil` <= \'M-0002\'
+ORDER BY `idmobil` ASC')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `mobil`
+WHERE `idmobil` >= \'M-0001\'
+AND `idmobil` <= \'M-0002\'
+ORDER BY `idmobil` ASC')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `mobil`
+WHERE `idmobil` >= :idmobil:
+AND `idmobil` <= :idmobil.1:
+ORDER BY `idmobil` ASC', [...], false)
+ 4 APPPATH\Controllers\DataMobil.php(96): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataMobil->filter()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataMobil))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 19:28:57 --> [Caused by] mysqli_sql_exception: Table 'dbrental_mobil.mobil' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `mobil`
+WHERE `idmobil` >= \'M-0001\'
+AND `idmobil` <= \'M-0002\'
+ORDER BY `idmobil` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `mobil`
+WHERE `idmobil` >= \'M-0001\'
+AND `idmobil` <= \'M-0002\'
+ORDER BY `idmobil` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `mobil`
+WHERE `idmobil` >= \'M-0001\'
+AND `idmobil` <= \'M-0002\'
+ORDER BY `idmobil` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `mobil`
+WHERE `idmobil` >= :idmobil:
+AND `idmobil` <= :idmobil.1:
+ORDER BY `idmobil` ASC', [...], false)
+ 5 APPPATH\Controllers\DataMobil.php(96): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataMobil->filter()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataMobil))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 19:30:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:32:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-12-22 19:32:08 --> mysqli_sql_exception: Table 'dbrental_mobil.mobil' doesn't exist in D:\Rafi Chandra\Codeigniter4\MBL\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Rafi Chandra\Codeigniter4\MBL\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Rafi Chandra\Codeigniter4\MBL\app\Controllers\DataMobil.php(133): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(933): App\Controllers\DataMobil->cetakpdf()
+#6 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataMobil))
+#7 D:\Rafi Chandra\Codeigniter4\MBL\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Rafi Chandra\Codeigniter4\MBL\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 D:\Rafi Chandra\Codeigniter4\MBL\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\Rafi Chandra\Codeigniter4\MBL\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\Rafi Chandra\Codeigniter4\MBL\system\rewrite.php(44): require_once('D:\\Rafi Chandra...')
+#12 {main}
+CRITICAL - 2024-12-22 19:32:08 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'dbrental_mobil.mobil' doesn't exist
+[Method: GET, Route: DataMobil/cetakpdf]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `mobil`
+ORDER BY `idmobil` ASC', [], false)
+ 2 APPPATH\Controllers\DataMobil.php(133): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataMobil->cetakpdf()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataMobil))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 19:32:08 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'dbrental_mobil.mobil' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `mobil`
+ORDER BY `idmobil` ASC')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `mobil`
+ORDER BY `idmobil` ASC')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `mobil`
+ORDER BY `idmobil` ASC', [], false)
+ 4 APPPATH\Controllers\DataMobil.php(133): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataMobil->cetakpdf()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataMobil))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 19:32:08 --> [Caused by] mysqli_sql_exception: Table 'dbrental_mobil.mobil' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `mobil`
+ORDER BY `idmobil` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `mobil`
+ORDER BY `idmobil` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `mobil`
+ORDER BY `idmobil` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `mobil`
+ORDER BY `idmobil` ASC', [], false)
+ 5 APPPATH\Controllers\DataMobil.php(133): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataMobil->cetakpdf()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataMobil))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+CRITICAL - 2024-12-22 19:37:36 --> ErrorException: Undefined array key "noidentitas"
+[Method: GET, Route: karyawan/laporan]
+in APPPATH\Views\karyawan\v_laporan.php on line 64.
+ 1 APPPATH\Views\karyawan\v_laporan.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "noidentitas"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\karyawan\\v_laporan.php', 64)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\karyawan\\v_laporan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('karyawan/v_laporan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(73): view('karyawan/v_laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->laporan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 19:38:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 19:38:13 --> ErrorException: Undefined array key "noidentitas"
+[Method: GET, Route: karyawan/cetakpdf]
+in APPPATH\Views\karyawan\cetak_pdf.php on line 103.
+ 1 APPPATH\Views\karyawan\cetak_pdf.php(103): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "noidentitas"', 'D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\karyawan\\cetak_pdf.php', 103)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Rafi Chandra\\Codeigniter4\\MBL\\app\\Views\\karyawan\\cetak_pdf.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('karyawan/cetak_pdf', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(132): view('karyawan/cetak_pdf', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->cetakpdf()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 19:39:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 19:39:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 20:05:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 20:05:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 20:05:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 20:06:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 20:06:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 20:06:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 20:06:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-22 20:06:47 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "peminjaman/cetak_pdf.php"
+[Method: GET, Route: Peminjam/cetakpdf]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('peminjaman/cetak_pdf.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('peminjaman/cetak_pdf', [], true)
+ 3 APPPATH\Controllers\Peminjam.php(240): view('peminjaman/cetak_pdf', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Peminjam->cetakpdf()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Rafi Chandra\\Codeigniter4\\MBL\\public\\index.php')
+INFO - 2024-12-22 20:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 20:12:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 20:12:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 20:12:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 20:12:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 20:13:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 20:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 20:13:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 20:13:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 20:13:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-22 20:14:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

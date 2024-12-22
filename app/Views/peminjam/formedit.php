@@ -32,7 +32,11 @@
                 <input type="hidden" name="id" value="<?= $peminjam['idpeminjam'] ?>">
 
                 <div class="row mb-3">
-                    <div class="col-md-6">
+                    <div class="col-md-3">
+                        <label for="faktur" class="form-label">Faktur</label>
+                        <input type="text" class="form-control" name="faktur" id="faktur" value="<?= $peminjam['faktur'] ?>" readonly>
+                    </div>
+                    <div class="col-md-3">
                         <label for="tanggal" class="form-label">Tanggal</label>
                         <input type="date" class="form-control" name="tanggal" id="tanggal" value="<?= $peminjam['tanggal'] ?>" required>
                     </div>

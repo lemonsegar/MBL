@@ -8,7 +8,6 @@ class ModelPeminjam extends Model
     {
         $builder = $this->db->table('peminjaman');
         
-        // Lakukan join dengan tabel tbl_donatur2200008
         $builder->select('peminjaman.*, pelanggan.idpel, pelanggan.nama, pelanggan.nohp, datamobil.noplat, datamobil.hrgsewa');
         $builder->join('pelanggan', 'peminjaman.idpel = pelanggan.idpel', 'left');
         $builder->join('datamobil', 'peminjaman.idmobil = datamobil.idmobil', 'left');
@@ -44,5 +43,24 @@ class ModelPeminjam extends Model
     {
         $query = $this->db->table('peminjaman')->update($data, array('idpeminjam' => $id));
     }
+
+    public function getFaktur()
+    {
+        $tgl = date('Ymd');
+        $query = $this->db->query("SELECT MAX(RIGHT(faktur,4)) as nofaktur 
+                                  FROM peminjaman 
+                                  WHERE DATE(tanggal) = CURDATE()");
+        $hasil = $query->getRow();
+        $nofaktur = $hasil->nofaktur;
+
+        if ($nofaktur > 0) {
+            $no = (int) $nofaktur;
+            $no++;
+        } else {
+            $no = 1;
+        }
+
+        $faktur = "TRX-" . $tgl . sprintf('%04s', $no);
+        return $faktur;
+    }
 }
-?>

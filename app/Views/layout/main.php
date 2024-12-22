@@ -16,11 +16,16 @@
   <link rel="stylesheet" href="<?= base_url() ?>/assets/modules/summernote/summernote-bs4.css">
   <link rel="stylesheet" href="<?= base_url() ?>/assets/modules/owlcarousel2/dist/<?= base_url() ?>/assets/owl.carousel.min.css">
   <link rel="stylesheet" href="<?= base_url() ?>/assets/modules/owlcarousel2/dist/<?= base_url() ?>/assets/owl.theme.default.min.css">
+  <link rel="stylesheet" href="<?= base_url() ?>/assets/modules/select2/dist/css/select2.min.css">
 
   <!-- Template CSS -->
   <link rel="stylesheet" href="<?= base_url() ?>/assets/css/style.css">
   <link rel="stylesheet" href="<?= base_url() ?>/assets/css/components.css">
   <!-- Start GA -->
+
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.css">
+
+
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-94034622-3"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -65,6 +70,17 @@
     strpos($currentUrl, '/Peminjam/edit/') !== false  // Tambahan pengecekan untuk edit dengan ID
   ): ?>
     <?php include(APPPATH . 'Views/peminjam/modalpeminjaman.php'); ?>
+  <?php endif; ?>
+  <?php
+  $currentUrl = current_url();
+  if (
+    strtolower($currentUrl) == strtolower(base_url('Pengembalian')) ||
+    $currentUrl == base_url('Pengembalian/tambah') ||
+    $currentUrl == base_url('Pengembalian/edit') ||
+    strpos($currentUrl, base_url('Pengembalian/formedit')) !== false ||
+    strpos($currentUrl, '/Pengembalian/edit/') !== false  // Tambahan pengecekan untuk edit dengan ID
+  ): ?>
+    <?php include(APPPATH . 'Views/pengembalian/modalpengembalian.php'); ?>
   <?php endif; ?>
 
 
@@ -133,6 +149,9 @@
   <!-- Template JS File -->
   <script src="<?= base_url() ?>/assets/js/scripts.js"></script>
   <script src="<?= base_url() ?>/assets/js/custom.js"></script>
+  <script src="<?= base_url() ?>/assets/modules/select2/dist/js/select2.full.min.js"></script>
+  <script type="text/javascript" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
   <?= $this->renderSection('js') ?>
 

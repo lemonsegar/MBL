@@ -17,11 +17,11 @@
             <div class="col-12">
                 <div class="card m-b-30">
                     <div class="card-header">
-                        <h4 class="mt-0 header-title">Data Peminjam Mobil</h4>
+                        <h4 class="mt-0 header-title">Data Pengembalian Mobil</h4>
                     </div>
                     <div class="card-body">
                         <div class="col-md-12">
-                            <a type="button" class="btn btn-sm btn-primary" href="<?= site_url('Peminjam/tambah') ?>">
+                            <a type="button" class="btn btn-sm btn-primary" href="<?= site_url('Pengembalian/tambah') ?>">
                                 Tambah Data
                             </a>
                         </div>
@@ -29,45 +29,37 @@
                         <div id="datatable_wrapper" class="dataTables_wrapper container-fluid dt-bootstrap4 no-footer">
                             <div class="row">
                                 <div class="col-sm-12">
-                                    <table class="table table-sm table-striped" id="datapeminjam">
+                                    <table class="table table-sm table-striped" id="datapengembalian">
                                         <thead>
                                             <tr role="row">
                                                 <th>No</th>
                                                 <th>Faktur</th>
-                                                <th>Tanggal</th>
                                                 <th>Nama Pelanggan</th>
-                                                <th>Id Mobil</th>
                                                 <th>No Polisi</th>
-                                                <th>Harga Sewa</th>
-                                                <th>Lama Sewa</th>
-                                                <th>Total Bayar</th>
+                                                <th>Tgl Dikembalikan</th>
+                                                <th>Denda</th>
                                                 <th>Action</th>
                                             </tr>
                                         </thead>
                                         <tbody>
                                             <?php $no = 0;
-                                            foreach ($peminjam as $val) {
+                                            foreach ($pengembalian as $val) {
                                                 $no++; ?>
                                                 <tr role="row" class="odd">
                                                     <td><?= $no; ?></td>
                                                     <td><?= $val['faktur'] ?></td>
-                                                    <td><?= $val['tanggal'] ?></td>
                                                     <td><?= $val['nama'] ?></td>
-                                                    <td><?= $val['idmobil'] ?></td>
                                                     <td><?= $val['noplat'] ?></td>
-                                                    <td><?= $val['hrgsewa'] ?></td>
-                                                    <td><?= $val['lama'] ?></td>
-                                                    <td><?= $val['total'] ?></td>
+                                                    <td><?= date('d/m/Y', strtotime($val['tgldikembalikan'])) ?></td>
+                                                    <td>Rp <?= number_format($val['denda'],0,',','.') ?></td>
                                                     <td>
-                                                        <a class="btn btn-info btn-sm btn-edit" href="<?= site_url('Peminjam/edit/' . $val['idpeminjam']) ?>">
+                                                        <a type="button" class="btn btn-info btn-sm btn-edit" href="<?= site_url('Pengembalian/edit/' . $val['idkembali']) ?>">
                                                             <i class="fa fa-tags"></i>
                                                         </a>
-
                                                         <button type="button" class="btn btn-danger btn-sm btn-delete"
-                                                            data-target="#deleteModalpeminjam"
+                                                            data-target="#deleteModalpengembalian"
                                                             data-toggle="modal"
-                                                            data-id="<?= $val['idpeminjam']; ?>" ,
-                                                            data-idmobil="<?= $val['idmobil']; ?>">
+                                                            data-id="<?= $val['idkembali']; ?>">
                                                             <i class="fa fa-trash"></i>
                                                         </button>
                                                     </td>
@@ -103,10 +95,8 @@
     });
 
     $('.btn-delete').on('click', function() {
-        var idpeminjam = $(this).data('id');
-        var idmobil = $(this).data('idmobil');
-        $('#idpeminjam ').val(idpeminjam);
-        $('#idmobil').val(idmobil);
+        var idkembali = $(this).data('id');
+        $('#idkembali').val(idkembali);
     });
 </script>
 <?= $this->endSection() ?>

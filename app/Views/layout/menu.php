@@ -32,7 +32,7 @@
         </a>
         <ul class="dropdown-menu">
             <li><a class="nav-link" href="<?= site_url('Peminjam') ?>">Peminjaman Mobil</a></li>
-            <li><a class="nav-link" href="<?= site_url('datamobil/index') ?>">Pengembalian Mobil</a></li>
+            <li><a class="nav-link" href="<?= site_url('pengembalian') ?>">Pengembalian Mobil</a></li>
         </ul>
     </li>
 
@@ -43,13 +43,12 @@
             <span>Laporan</span>
         </a>
         <ul class="dropdown-menu">
-            <li><a class="nav-link" href="<?= site_url('pelanggan/index') ?>">Lap. Pelanggan</a></li>
-            <li><a class="nav-link" href="<?= site_url('datamobil/index') ?>">Lap. Data Mobil</a></li>
-            <li><a class="nav-link" href="<?= site_url('karyawan/index') ?>">Lap. Karyawan</a></li>
-            <li><a class="nav-link" href="<?= site_url('user/index') ?>">Lap. Data User</a></li>
-            <li><a class="nav-link" href="<?= site_url('pelanggan/index') ?>">Lap. Peminjaman</a></li>
-            <li><a class="nav-link" href="<?= site_url('datamobil/index') ?>">Lap. Pengembalian</a></li>
-            <li><a class="nav-link" href="<?= site_url('karyawan/index') ?>">Lap. Transaksi</a></li>
+            <li><a class="nav-link" href="<?= site_url('pelanggan/laporan') ?>">Lap. Pelanggan</a></li>
+            <li><a class="nav-link" href="<?= site_url('datamobil/laporan') ?>">Lap. Data Mobil</a></li>
+            <li><a class="nav-link" href="<?= site_url('karyawan/laporan') ?>">Lap. Karyawan</a></li>
+            <li><a class="nav-link" href="<?= site_url('peminjam/laporan') ?>">Lap. Peminjaman</a></li>
+            <li><a class="nav-link" href="<?= site_url('pengembalian/laporan') ?>">Lap. Pengembalian</a></li>
+            <!-- <li><a class="nav-link" href="<?= site_url('peminjam/laporan') ?>">Lap. Transaksi</a></li> -->
         </ul>
     </li>
 <?php endif; ?>

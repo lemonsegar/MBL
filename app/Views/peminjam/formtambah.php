@@ -29,23 +29,21 @@
         </div>
         <div class="card-body">
             <form action="/Peminjam/save" method="post">
-                <?php if (!empty(session()->getFlashdata('error'))) : ?>
-                    <div class="alert alert-danger alert-dismissible fade show" role="alert">
-                        <h4>Periksa Entrian Form</h4>
-                        <hr />
-                        <?php echo session()->getFlashdata('error'); ?>
-                        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                            <span aria-hidden="true">&times;</span>
-                        </button>
-                    </div>
-                <?php endif; ?>
+                
 
+                
                 <div class="row mb-3">
-                    <div class="col-md-6">
+
+                    <div class="col-md-3">
+                        <label for="faktur" class="form-label">Faktur</label>
+                        <input type="text" class="form-control" name="faktur" id="faktur" value="<?= $faktur ?>" readonly>
+                    </div>
+                    <div class="col-md-3">
                         <label for="tanggal" class="form-label">Tanggal</label>
                         <input type="date" class="form-control" name="tanggal" id="tanggal" required>
                     </div>
                 </div>
+
 
                 <div class="row mb-3">
                     <div class="col-md-6">
@@ -119,6 +117,9 @@
         let yyyy = tglKembali.getFullYear();
         $('#tglkembali').val(yyyy + '-' + mm + '-' + dd);
     })
+
+
+    
 </script>
 
 <?= $this->endSection() ?>

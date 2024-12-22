@@ -146,8 +146,8 @@
         $('#modal_pelanggan').modal('hide');
     }
 
-    function pilih_mobil(id, noplat, hrgsewa) {
-        $('#idmobil').val(id);
+    function pilih_mobil(idmobil, noplat, hrgsewa) {
+        $('#idm').val(idmobil);
         $('#noplat').val(noplat);
         $('#hrgsewa').val(hrgsewa);
         $('#modal_mobil').modal('hide');

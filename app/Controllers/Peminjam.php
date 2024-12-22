@@ -25,6 +25,7 @@ class Peminjam extends BaseController
     public function tambah()
     {
         $model = new ModelPeminjam();
+        $data['faktur'] = $model->getFaktur();
         $data['data_pel'] = $model->getPel()->getResultArray();
         $data['data_mobil'] = $model->getMobil()->getResultArray();
         echo view('peminjam/formtambah', $data);
@@ -79,6 +80,7 @@ class Peminjam extends BaseController
 
         // Jika validasi berhasil
         $data = array(
+            'faktur' => $this->request->getPost('faktur'),
             'tanggal' => $this->request->getPost('tanggal'),
             'idpel' => $this->request->getPost('idpel'), 
             'idmobil' => $this->request->getPost('idmobil'),
@@ -152,5 +154,93 @@ class Peminjam extends BaseController
       
         session()->setFlashdata('success', 'Data berhasil diubah');
         return redirect()->to('/peminjam/index');
+    }
+
+    public function laporan()
+    {
+        $db = \Config\Database::connect();
+        $builder = $db->table('peminjaman p')
+        ->select('p.*, pl.nama as nama_pelanggan, m.merek, m.noplat')
+        ->join('pelanggan pl', 'pl.idpel = p.idpel')
+        ->join('datamobil m', 'm.idmobil = p.idmobil')
+        ->orderBy('p.tanggal', 'DESC');
+
+        $data = [
+            'title' => 'Laporan Peminjaman',
+            'peminjaman' => $builder->get()->getResultArray()
+        ];
+
+        return view('peminjam/v_laporan', $data);
+    }
+
+    public function filter()
+    {
+        if ($this->request->isAJAX()) {
+            try {
+                $tanggal_awal = $this->request->getPost('tanggal_awal');
+                $tanggal_akhir = $this->request->getPost('tanggal_akhir');
+
+                $db = \Config\Database::connect();
+                $builder = $db->table('peminjaman p')
+                ->select('p.*, pl.nama as nama_pelanggan, m.merek, m.noplat')
+                ->join('pelanggan pl', 'pl.idpel = p.idpel')
+                ->join('datamobil m', 'm.idmobil = p.idmobil')
+                ->where('p.tanggal >=', $tanggal_awal)
+                    ->where('p.tanggal <=', $tanggal_akhir)
+                    ->orderBy('p.tanggal', 'DESC');
+
+                $data = $builder->get()->getResultArray();
+
+                return $this->response->setJSON([
+                    'success' => true,
+                    'data' => $data
+                ]);
+            } catch (\Exception $e) {
+                return $this->response->setJSON([
+                    'success' => false,
+                    'message' => 'Terjadi kesalahan: ' . $e->getMessage()
+                ]);
+            }
+        }
+
+        return $this->response->setJSON([
+            'success' => false,
+            'message' => 'Invalid Request'
+        ]);
+    }
+
+    public function cetakpdf()
+    {
+        $db = \Config\Database::connect();
+        $builder = $db->table('peminjaman p')
+        ->select('p.*, pl.nama as nama_pelanggan, m.merek, m.noplat')
+        ->join('pelanggan pl', 'pl.idpel = p.idpel')
+        ->join('datamobil m', 'm.idmobil = p.idmobil');
+
+        // Ambil parameter filter jika ada
+        $tanggal_awal = $this->request->getGet('tanggal_awal');
+        $tanggal_akhir = $this->request->getGet('tanggal_akhir');
+
+        if ($tanggal_awal && $tanggal_akhir) {
+            $builder->where('p.tanggal >=', $tanggal_awal)
+                ->where('p.tanggal <=', $tanggal_akhir);
+        }
+
+        $data['peminjaman'] = $builder->orderBy('p.tanggal', 'DESC')
+        ->get()
+            ->getResultArray();
+
+        $data['title'] = 'Laporan Data Peminjaman';
+        $data['tgl_cetak'] = date('d/m/Y');
+        $data['periode'] = $tanggal_awal && $tanggal_akhir ?
+            'Periode: ' . date('d/m/Y', strtotime($tanggal_awal)) . ' - ' . date('d/m/Y', strtotime($tanggal_akhir)) :
+            'Semua Periode';
+
+        $dompdf = new \Dompdf\Dompdf();
+        $html = view('peminjam/cetak_pdf', $data);
+        $dompdf->loadHtml($html);
+        $dompdf->setPaper('A4', 'landscape');
+        $dompdf->render();
+        $dompdf->stream('laporan_peminjaman.pdf', ['Attachment' => false]);
     }
 }
