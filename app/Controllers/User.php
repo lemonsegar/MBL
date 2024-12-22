@@ -23,6 +23,7 @@ class User extends BaseController
             'level'         => $this->request->getPost('level'),
         );
         $model->insertData($data);
+        session()->setFlashdata('success', 'Data berhasil ditambahkan');
         return redirect()->to('/user');
     }
 
@@ -31,7 +32,8 @@ class User extends BaseController
         $model = new ModelUser();
         $id = $this->request->getpost('id');
         $model->deletUser($id);
-        return redirect()->to('/user/index');
+        session()->setFlashdata('success', 'Data berhasil dihapus');
+        return redirect()->to('/user');
     }
 
     function update()
@@ -45,7 +47,8 @@ class User extends BaseController
         'level' => $this->request->getPost('level'),
     );
     $model->updateuser($data, $id);
-    return redirect()->to('/user/index');
+    session()->setFlashdata('success', 'Data berhasil diubah');
+    return redirect()->to('/user');
     }
 
 }

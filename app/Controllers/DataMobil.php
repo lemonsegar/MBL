@@ -8,6 +8,9 @@ class DataMobil extends BaseController
     public function index()
     {
         $model = new ModelDataMobil();
+        $db = db_connect();
+        $query = $db->table('datamobil')->select('status')->distinct()->get()->getResultArray();
+        $data['status'] = $query;
         $data['datamobil'] = $model->getDataMobil()->getResultArray();
         echo view('datamobil/v_datamobil', $data);
     }
@@ -35,11 +38,14 @@ class DataMobil extends BaseController
         ])) {
             session()->setFlashdata('error', $this->validator->listErrors());
             return redirect()->back()->withInput();
-        } else {
-            print_r($this->request->getVar());
         }
 
-        $model->insertData($data);
+        try {
+            $model->insertData($data);
+            session()->setFlashdata('success', 'Data mobil berhasil ditambahkan');
+        } catch (\Exception $e) {
+            session()->setFlashdata('error', 'Gagal menambahkan data mobil');
+        }
         return redirect()->to('/datamobil');
     }
 
@@ -48,7 +54,8 @@ class DataMobil extends BaseController
         $model = new ModelDataMobil();
         $id = $this->request->getpost('id');
         $model->deletDataMobil($id);
-        return redirect()->to('/datamobil/index');
+        session()->setFlashdata('success','Data Mobil Berhasil Dihapus');
+        return redirect()->to('/datamobil');
     }
 
     function update()
@@ -64,7 +71,7 @@ class DataMobil extends BaseController
         'hrgsewa' => $this->request->getPost('hrgsewa'),
     );
     $model->updateDataMobil($data, $id);
-    return redirect()->to('/datamobil/index');
+    session()->setFlashdata('success', 'Data Mobil Berhasil Diubah');
+    return redirect()->to('/datamobil');
 }
 }
-?>

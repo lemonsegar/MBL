@@ -34,11 +34,12 @@ class Karyawan extends BaseController
             session()->setFlashdata('error', $this->validator->listErrors());
             return redirect()->back()->withInput();
         } else {
-            print_r($this->request->getVar());
+            $model->insertData($data);
+            session()->setFlashdata('success', 'Data Karyawan Berhasil Ditambahkan');
+            return redirect()->to('/karyawan');
         }
 
-        $model->insertData($data);
-        return redirect()->to('/karyawan');
+      
     }
 
     public function delete()
@@ -46,7 +47,8 @@ class Karyawan extends BaseController
         $model = new ModelKaryawan();
         $id = $this->request->getpost('id');
         $model->deletKaryawan($id);
-        return redirect()->to('/karyawan/index');
+        session()->setFlashdata('success', 'Data Karyawan Berhasil Dihapus');
+        return redirect()->to('/karyawan');
     }
 
     function update()
@@ -60,7 +62,7 @@ class Karyawan extends BaseController
         'nointitas' => $this->request->getPost('nointitas'),
     );
     $model->updateKaryawan($data, $id);
-    return redirect()->to('/karyawan/index');
+    session()->setFlashdata('success', 'Data Karyawan Berhasil Diubah');
+    return redirect()->to('/karyawan');
 }
 }
-?>

@@ -1,4 +1,5 @@
 <?php
+
 namespace App\Controllers;
 
 use App\Models\ModelPelanggan;
@@ -19,8 +20,8 @@ class Pelanggan extends BaseController
         $data = array(
             'idpel'  => $this->request->getPost('id'),
             'nama' => $this->request->getPost('nama'),
-            'alamat'        => $this->request->getPost('alamat'),
-            'nohp'         => $this->request->getPost('nohp'),
+            'alamat' => $this->request->getPost('alamat'),
+            'nohp'   => $this->request->getPost('nohp'),
         );
         if (!$this->validate([
             'id' => [
@@ -33,34 +34,46 @@ class Pelanggan extends BaseController
         ])) {
             session()->setFlashdata('error', $this->validator->listErrors());
             return redirect()->back()->withInput();
-        } else {
-            print_r($this->request->getVar());
         }
 
-        $model->insertData($data);
+        try {
+            $model->insertData($data);
+            session()->setFlashdata('success', 'Data pelanggan berhasil ditambahkan');
+        } catch (\Exception $e) {
+            session()->setFlashdata('error', 'Gagal menambahkan data pelanggan');
+        }
         return redirect()->to('/pelanggan');
     }
 
     public function delete()
     {
         $model = new ModelPelanggan();
-        $id = $this->request->getpost('id');
-        $model->deletPelanggan($id);
-        return redirect()->to('/pelanggan/index');
+        $id = $this->request->getPost('id');
+        try {
+            $model->deletPelanggan($id);
+            session()->setFlashdata('success', 'Data pelanggan berhasil dihapus');
+        } catch (\Exception $e) {
+            session()->setFlashdata('error', 'Gagal menghapus data pelanggan');
+        }
+        return redirect()->to('/pelanggan');
     }
 
     function update()
-{
-    $model = new ModelPelanggan();
-    $id = $this->request->getPost('id');
-    $data = array(
-        'idpel' => $this->request->getPost('id'),
-        'nama' => $this->request->getPost('nama'),
-        'alamat' => $this->request->getPost('alamat'),
-        'nohp' => $this->request->getPost('nohp'),
-    );
-    $model->updatePelanggan($data, $id);
-    return redirect()->to('/pelanggan/index');
+    {
+        $model = new ModelPelanggan();
+        $id = $this->request->getPost('id');
+        $data = array(
+            'idpel' => $this->request->getPost('id'),
+            'nama' => $this->request->getPost('nama'),
+            'alamat' => $this->request->getPost('alamat'),
+            'nohp' => $this->request->getPost('nohp'),
+        );
+        try {
+            $model->updatePelanggan($data, $id);
+            session()->setFlashdata('success', 'Data pelanggan berhasil diperbarui');
+        } catch (\Exception $e) {
+            session()->setFlashdata('error', 'Gagal memperbarui data pelanggan');
+        }
+        return redirect()->to('/pelanggan');
+    }
 }
-}
-?>
