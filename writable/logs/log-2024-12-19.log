@@ -1,0 +1,243 @@
+INFO - 2024-12-19 08:06:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:06:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:06:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:06:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:07:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:07:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:26:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:26:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:26:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:26:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:26:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:26:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:27:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:27:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:27:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:27:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:27:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:28:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:28:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:28:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:28:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:28:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:28:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 08:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:03:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:03:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:03:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:03:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:05:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-19 09:05:00 --> ErrorException: Undefined variable $kasmasuk
+[Method: GET, Route: Peminjam/index]
+in APPPATH\Views\peminjam\v_peminjam.php on line 51.
+ 1 APPPATH\Views\peminjam\v_peminjam.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kasmasuk', 'D:\\template\\MBL\\app\\Views\\peminjam\\v_peminjam.php', 51)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\template\\MBL\\app\\Views\\peminjam\\v_peminjam.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('peminjam/v_peminjam', [], true)
+ 5 APPPATH\Controllers\Peminjam.php(16): view('peminjam/v_peminjam', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Peminjam->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\template\\MBL\\public\\index.php')
+INFO - 2024-12-19 09:05:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-19 09:05:31 --> ErrorException: Undefined array key "noplat"
+[Method: GET, Route: Peminjam/index]
+in APPPATH\Views\peminjam\v_peminjam.php on line 59.
+ 1 APPPATH\Views\peminjam\v_peminjam.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "noplat"', 'D:\\template\\MBL\\app\\Views\\peminjam\\v_peminjam.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\template\\MBL\\app\\Views\\peminjam\\v_peminjam.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('peminjam/v_peminjam', [], true)
+ 5 APPPATH\Controllers\Peminjam.php(16): view('peminjam/v_peminjam', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Peminjam->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\template\\MBL\\public\\index.php')
+INFO - 2024-12-19 09:06:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-19 09:06:05 --> ErrorException: Undefined array key "noplat"
+[Method: GET, Route: Peminjam/index]
+in APPPATH\Views\peminjam\v_peminjam.php on line 59.
+ 1 APPPATH\Views\peminjam\v_peminjam.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "noplat"', 'D:\\template\\MBL\\app\\Views\\peminjam\\v_peminjam.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\template\\MBL\\app\\Views\\peminjam\\v_peminjam.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('peminjam/v_peminjam', [], true)
+ 5 APPPATH\Controllers\Peminjam.php(16): view('peminjam/v_peminjam', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Peminjam->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\template\\MBL\\public\\index.php')
+INFO - 2024-12-19 09:08:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-19 09:08:25 --> ErrorException: Undefined array key "pel"
+[Method: GET, Route: Peminjam/index]
+in APPPATH\Views\peminjam\v_peminjam.php on line 68.
+ 1 APPPATH\Views\peminjam\v_peminjam.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pel"', 'D:\\template\\MBL\\app\\Views\\peminjam\\v_peminjam.php', 68)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\template\\MBL\\app\\Views\\peminjam\\v_peminjam.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('peminjam/v_peminjam', [], true)
+ 5 APPPATH\Controllers\Peminjam.php(16): view('peminjam/v_peminjam', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Peminjam->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\template\\MBL\\public\\index.php')
+INFO - 2024-12-19 09:08:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-19 09:08:49 --> ErrorException: Undefined variable $jenis_list
+[Method: GET, Route: Peminjam/index]
+in APPPATH\Views\peminjam\v_peminjam.php on line 258.
+ 1 APPPATH\Views\peminjam\v_peminjam.php(258): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenis_list', 'D:\\template\\MBL\\app\\Views\\peminjam\\v_peminjam.php', 258)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\template\\MBL\\app\\Views\\peminjam\\v_peminjam.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('peminjam/v_peminjam', [], true)
+ 5 APPPATH\Controllers\Peminjam.php(16): view('peminjam/v_peminjam', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Peminjam->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\template\\MBL\\public\\index.php')
+INFO - 2024-12-19 09:09:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-19 09:09:24 --> ErrorException: Undefined variable $data_donatur
+[Method: GET, Route: Peminjam/index]
+in APPPATH\Views\peminjam\v_peminjam.php on line 311.
+ 1 APPPATH\Views\peminjam\v_peminjam.php(311): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_donatur', 'D:\\template\\MBL\\app\\Views\\peminjam\\v_peminjam.php', 311)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\template\\MBL\\app\\Views\\peminjam\\v_peminjam.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('peminjam/v_peminjam', [], true)
+ 5 APPPATH\Controllers\Peminjam.php(16): view('peminjam/v_peminjam', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Peminjam->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\template\\MBL\\public\\index.php')
+INFO - 2024-12-19 09:13:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-19 09:13:58 --> ErrorException: Undefined variable $data_donatur
+[Method: GET, Route: Peminjam/index]
+in APPPATH\Views\peminjam\v_peminjam.php on line 311.
+ 1 APPPATH\Views\peminjam\v_peminjam.php(311): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_donatur', 'D:\\template\\MBL\\app\\Views\\peminjam\\v_peminjam.php', 311)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\template\\MBL\\app\\Views\\peminjam\\v_peminjam.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('peminjam/v_peminjam', [], true)
+ 5 APPPATH\Controllers\Peminjam.php(16): view('peminjam/v_peminjam', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Peminjam->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\template\\MBL\\public\\index.php')
+INFO - 2024-12-19 09:14:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-19 09:14:45 --> ErrorException: Undefined array key "idmobbil"
+[Method: GET, Route: Peminjam/index]
+in APPPATH\Views\peminjam\v_peminjam.php on line 357.
+ 1 APPPATH\Views\peminjam\v_peminjam.php(357): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idmobbil"', 'D:\\template\\MBL\\app\\Views\\peminjam\\v_peminjam.php', 357)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\template\\MBL\\app\\Views\\peminjam\\v_peminjam.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('peminjam/v_peminjam', [], true)
+ 5 APPPATH\Controllers\Peminjam.php(16): view('peminjam/v_peminjam', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Peminjam->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\template\\MBL\\public\\index.php')
+INFO - 2024-12-19 09:14:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:31:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:32:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:38:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:42:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:42:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:43:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:44:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:46:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:46:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:46:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-19 09:46:53 --> ErrorException: Undefined variable $data_pel
+[Method: GET, Route: layout]
+in APPPATH\Views\layout\modal.php on line 658.
+ 1 APPPATH\Views\layout\modal.php(658): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_pel', 'D:\\template\\MBL\\app\\Views\\layout\\modal.php', 658)
+ 2 APPPATH\Views\layout\main.php(35): include('D:\\template\\MBL\\app\\Views\\layout\\modal.php')
+ 3 SYSTEMPATH\View\View.php(234): include('D:\\template\\MBL\\app\\Views\\layout\\main.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/main', [], true)
+ 6 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/menu', [], true)
+ 7 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/beranda', [], true)
+ 8 APPPATH\Controllers\Layout.php(8): view('layout/beranda')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Layout->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Layout))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('D:\\template\\MBL\\public\\index.php')
+INFO - 2024-12-19 09:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-19 09:47:09 --> ErrorException: Undefined variable $data_pel
+[Method: GET, Route: layout]
+in APPPATH\Views\layout\modal.php on line 658.
+ 1 APPPATH\Views\layout\modal.php(658): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_pel', 'D:\\template\\MBL\\app\\Views\\layout\\modal.php', 658)
+ 2 APPPATH\Views\layout\main.php(35): include('D:\\template\\MBL\\app\\Views\\layout\\modal.php')
+ 3 SYSTEMPATH\View\View.php(234): include('D:\\template\\MBL\\app\\Views\\layout\\main.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/main', [], true)
+ 6 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/menu', [], true)
+ 7 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/beranda', [], true)
+ 8 APPPATH\Controllers\Layout.php(8): view('layout/beranda')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Layout->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Layout))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('D:\\template\\MBL\\public\\index.php')
+INFO - 2024-12-19 09:48:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:48:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:51:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:59:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 09:59:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 10:00:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 10:00:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 10:09:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 11:39:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 11:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 11:39:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-19 11:39:48 --> ErrorException: Undefined variable $data_pel
+[Method: GET, Route: layout]
+in APPPATH\Views\layout\modal.php on line 658.
+ 1 APPPATH\Views\layout\modal.php(658): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_pel', 'D:\\template\\MBL\\app\\Views\\layout\\modal.php', 658)
+ 2 APPPATH\Views\layout\main.php(35): include('D:\\template\\MBL\\app\\Views\\layout\\modal.php')
+ 3 SYSTEMPATH\View\View.php(234): include('D:\\template\\MBL\\app\\Views\\layout\\main.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/main', [], true)
+ 6 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/menu', [], true)
+ 7 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/beranda', [], true)
+ 8 APPPATH\Controllers\Layout.php(8): view('layout/beranda')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Layout->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Layout))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('D:\\template\\MBL\\public\\index.php')
+INFO - 2024-12-19 11:40:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 11:40:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 11:41:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

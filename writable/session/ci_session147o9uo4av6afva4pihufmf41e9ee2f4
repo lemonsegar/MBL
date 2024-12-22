@@ -1,0 +1,9 @@
+__ci_last_regenerate|i:1731337821;_ci_previous_url|s:47:"http://localhost:8081/index.php/datamobil/index";username|s:4:"Nana";masuk|b:1;level|s:1:"1";error|s:223:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>id Harus diisi</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:3:{s:5:"error";s:3:"new";s:13:"_ci_old_input";s:3:"new";s:21:"_ci_validation_errors";s:3:"new";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:0:{}}_ci_validation_errors|a:1:{s:2:"id";s:14:"id Harus diisi";}
