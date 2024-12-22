@@ -31,7 +31,7 @@
             <span>Transaksi</span>
         </a>
         <ul class="dropdown-menu">
-            <li><a class="nav-link" href="<?= site_url('Peminjam/index') ?>">Peminjaman Mobil</a></li>
+            <li><a class="nav-link" href="<?= site_url('Peminjam') ?>">Peminjaman Mobil</a></li>
             <li><a class="nav-link" href="<?= site_url('datamobil/index') ?>">Pengembalian Mobil</a></li>
         </ul>
     </li>

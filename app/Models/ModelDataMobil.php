@@ -27,5 +27,10 @@ class ModelDataMobil extends Model
     {
         $query = $this->db->table('datamobil')->update($data, array('idmobil' => $id));
     }
+
+    public function updateMobil($id, $data)
+    {
+        $this->db->table('datamobil')->update($data, array('idmobil' => $id));
+    }
 }
 ?>

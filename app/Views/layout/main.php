@@ -54,6 +54,22 @@
   <?php endif; ?>
 
 
+
+  <?php
+  $currentUrl = current_url();
+  if (
+    strtolower($currentUrl) == strtolower(base_url('Peminjam')) ||
+    $currentUrl == base_url('Peminjam/tambah') ||
+    $currentUrl == base_url('Peminjam/edit') ||
+    strpos($currentUrl, base_url('Peminjam/formedit')) !== false ||
+    strpos($currentUrl, '/Peminjam/edit/') !== false  // Tambahan pengecekan untuk edit dengan ID
+  ): ?>
+    <?php include(APPPATH . 'Views/peminjam/modalpeminjaman.php'); ?>
+  <?php endif; ?>
+
+
+
+
   <div id="app">
     <div class="main-wrapper main-wrapper-1">
       <div class="navbar-bg"></div>
@@ -72,7 +88,7 @@
             <?php include 'menu.php' ?>
           </ul>
 
-          
+
         </aside>
       </div>
 
@@ -117,63 +133,10 @@
   <!-- Template JS File -->
   <script src="<?= base_url() ?>/assets/js/scripts.js"></script>
   <script src="<?= base_url() ?>/assets/js/custom.js"></script>
-  
+
   <?= $this->renderSection('js') ?>
 
-  <script>
-    $(document).ready(function() {
-      window.pilih_pelanggan = function(idpel, nama) {
-        $('#idpel').val(idpel);
-        $('#nama').val(nama);
-        $('#modal_pelanggan').modal('hide');
-      };
 
-      window.pilih_mobil = function(idmobil, noplat, hrgsewa) {
-        $('#idm').val(idmobil);
-        $('#noplat').val(noplat);
-        $('#hrgsewa').val(hrgsewa);
-        $('#modal_mobil').modal('hide');
-      };
-
-      $('#lama').on('input', function() {
-
-        let harga = $('#hrgsewa').val();
-        let lama = $('#lama').val();
-        $('#total').val(lama * harga);
-
-      })
-
-
-      $('.btn-delete').on('click', function() {
-        var idpeminjam = $(this).data('id');
-        $('#idpeminjam ').val(idpeminjam);
-      });
-
-      $('.btn-edit').on('click', function() {
-        const id = $(this).data('id');
-        const tanggal = $(this).data('tanggal');
-        const idpel = $(this).data('idpel');
-        const nama = $(this).data('nama');
-        const idmobil = $(this).data('idmobil');
-        const noplat = $(this).data('noplat');
-        const hrgsewa = $(this).data('hrgsewa');
-        const lama = $(this).data('lama');
-        const total = $(this).data('total');
-
-        $('.id').val(id);
-        $('.tanggal').val(tanggal);
-        $('.idpel').val(idpel);
-        $('.nama').val(nama);
-        $('.idmobil').val(idmobil);
-        $('.noplat').val(noplat);
-        $('.hrgsewa').val(hrgsewa);
-        $('.lama').val(lama);
-        $('.total').val(total).trigger('change'); // Pastikan class sesuai
-        $('#editModalpeminjam').modal('show');
-      });
-
-    });
-  </script>
 </body>
 
 </html>

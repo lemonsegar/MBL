@@ -25,7 +25,7 @@ class ModelPeminjam extends Model
 
     public function getMobil()
     {
-        $builder = $this->db->table('datamobil');
+        $builder = $this->db->table('datamobil')->where('status', 'Tersedia');
         return $builder->get();
     }
 
