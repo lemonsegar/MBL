@@ -1,3 +1,3 @@
 <?php
 
-echo "test push code";
+echo "berhasil";
